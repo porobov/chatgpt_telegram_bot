@@ -73,7 +73,12 @@ You can deploy your own bot, or use mine: [@chatgpt_karfly_bot](https://t.me/cha
 
 4. 🔥 And now **run**:
     ```bash
-    docker-compose --env-file config/config.env up --build
+    docker compose --env-file config/config.env up --build
+    ```
+
+5. To restart go to project root and **run**:
+    ```bash
+    docker compose down
     ```
 
 ## ❤️ Top donations
