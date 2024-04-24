@@ -2,7 +2,7 @@ assistant:
   name: 👾 No pre-prompt
   model_type: text
   welcome_message: 👾 <b>No pre-prompt here</b>. Let us begin!
-  prompt_start: 
+  prompt_start: Hey!
   parse_mode: html
 
 pre_prompted_assistant:
